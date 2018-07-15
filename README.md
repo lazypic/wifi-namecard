@@ -19,7 +19,7 @@ $ convert scanimage.png scanimage.bmp
 $ potrace --svg scanimage.bmp -o scanimage.svg -k 0.8
 ```
 
-- svg를 편집하기 위해서 [iVinci Express](https://itunes.apple.com/kr/app/ivinci-express/id607900811?mt=12)를 사용했습니다. 가볍게 svg파일을 수정할 때 편리한 툴입니다.
+- svg를 편집하기 위해서 [iVinci Express](https://itunes.apple.com/kr/app/ivinci-express/id607900811?mt=12)를 사용했습니다. 가볍게 svg파일을 macOS에서 수정할 때 편리한 툴입니다.
 
 - qlmanage : svg 편집이후 인쇄를 위해 인쇄해상도에 해당하는 bitmap 변경. A4 300dpi에 해당하는 픽셀수는 2480x3508 입니다.
 
