@@ -5,7 +5,7 @@ wifi 패스워드를 알려주는 만화.
 
 ```
 1. 손님이 Lazypic을 방문합니다.
-2. 손님이 Wifi 패스워드를 알려달라고 합니다.
+2. 손님이 Wifi 패스워드를 요청합니다.
 3. Lazypic은 손님에게 벽에 붙혀있는 4컷 만화를 손으로 가리킵니다.
 4. 손님은 만화를 읽고, Wifi 패스워드를 설정합니다.
 ```
@@ -16,6 +16,7 @@ wifi 패스워드를 알려주는 만화.
 그래서 lazypic 이 생각한 패스워드는 `w!f!5Gworkhard` 입니다. 더 좋은 패스워드 아이디어가 있다면 [issue](https://github.com/lazypic/wifiart/issues)에 남겨주세요.
 
 완성된 만화는 이 리포지터리에 `.svg`, `.png`, `.pdf` 파일로 백업되어집니다.
+백업된 이미지는 필요시 A4용지에 인쇄해서 사용합니다.
 
 ![wifiart](wifi_art.png "Wifi Art")
 
