@@ -13,7 +13,7 @@ wifi 패스워드를 알려주는 만화.
 현대의 와이파이 기기는 대문자, 소문자, 숫자, 특수문자가 들어간 형태의 패스워드 설정을 요구합니다.
 방문객이 랜덤한 패스워드를 읽고 기억하기 힘들기 때문에 위 조건이 충족되면서 
 재미 요소가 패스워드 속에 있고, 읽기 편한 패스워드를 구성하려고 노력했습니다.
-그래서 lazypic 이 생각한 패스워드는 `w!f!5Gworkhard` 입니다. 더 좋은 패스워드 아이디어가 있다면 [issue](https://github.com/lazypic/wifiart/issues)에 남겨주세요.
+그래서 lazypic 이 생각한 Guest 패스워드는 `w!f!5Gworkhard` 입니다. 더 좋은 패스워드 아이디어가 있다면 [issue](https://github.com/lazypic/wifiart/issues)에 남겨주세요.
 
 완성된 만화는 이 리포지터리에 `.svg`, `.png`, `.pdf` 파일로 백업되어집니다.
 백업된 이미지는 필요시 A4용지에 인쇄해서 사용합니다.
