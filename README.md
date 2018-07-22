@@ -28,6 +28,7 @@ $ convert scanimage.png scanimage.bmp
 ```
 
 - potrace : bmp 이미지를 vector로 변환하기 위해서 사용했습니다.
+- potrace option : http://potrace.sourceforge.net/mkbitmap.html
 
 ```bash
 $ potrace --svg scanimage.bmp -o scanimage.svg -k 0.8
